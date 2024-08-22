@@ -1,2 +1,2 @@
-# java
+# Embedded
 This is github repository
